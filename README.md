@@ -26,8 +26,7 @@ newer.
 
 ## Paper
 
-A paper detailing the significance and architecture of this project is coming
-soon.
+The paper "APOGEE Net: An expanded spectral model of both low mass and high mass stars" (Sprague et al., 2021), detailing the significance and architecture of this project, can be found here: https://arxiv.org/abs/2201.03661
 
 The summary is that this package uses a CNN to process the spectra, obtaining
 previously-unseen results on high-temperature stars.
